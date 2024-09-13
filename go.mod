@@ -1,4 +1,4 @@
-module gpu-mem-for-llm
+module github.com/ashprao/gpu-mem-for-llm
 
 go 1.22.2
 
