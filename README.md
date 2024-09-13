@@ -7,7 +7,7 @@ This command line tool helps you calculate the estimated GPU memory required to 
 To use this tool, you need to have Go installed on your system. Then, you can install it using the following command:
 
 ```bash
-go install github.com/ashwinrao/gpu-for-llm
+go install github.com/ashprao/gpu-mem-for-llm
 ```
 
 After installation, the tool will be available in your `PATH` assuming you have set up go bin in your path.
